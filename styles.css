@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+*{
+	background-color: rgb(204, 204, 204)
+
+}
+#playlist{
+	list-style-type:none;
+
+}
+h1,h2,h3{
+	text-align:center;
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding: border-radius;
+	border:12px solid white;
+width:100%;
+}
+#class1{
+	
+}
