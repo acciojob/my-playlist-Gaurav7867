@@ -3,10 +3,7 @@
 	background-color: rgb(204, 204, 204)
 
 }
-#playlist{
-	list-style-type:none;
 
-}
 h1,h2,h3{
 	text-align:center;
 }
@@ -14,8 +11,10 @@ h1,h2,h3{
 	background-color: rgb(255, 255, 255);
 	padding: border-radius;
 	border:12px solid white;
-width:100%;
 }
-#class1{
-	
+#playlistt,li{
+	background-color:white;
+		list-style-type:none;
+
+
 }
