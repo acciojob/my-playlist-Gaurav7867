@@ -1,20 +1,29 @@
-/*  your css code here. If applicable */
-*{
+#playlistt{
+	border:2px solid black;
+	background-color:white;
+	border-radius:10px;
+
+}
+li{
+list-style-type: none
+
+}
+body{
 	background-color: rgb(204, 204, 204)
 
 }
+.heading{
+	text-align: center
 
-h1,h2,h3{
-	text-align:center;
 }
-.player_one{
-	background-color: rgb(255, 255, 255);
-	padding: border-radius;
-	border:12px solid white;
+.player{
+	background-color:rgb(255, 255, 255); 
+	margin:10px; 
+	border-radius:10px;
+	border:2px solid black;
+	padding:10px;
 }
-#playlistt,li{
-	background-color:white;
-		list-style-type:none;
-
-
+.player_one,.player_two{
+	width:500px;
+	padding-inline:50px;
 }
